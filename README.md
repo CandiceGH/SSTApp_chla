@@ -1,0 +1,2 @@
+# SSTApp_chla
+Do you live in the Hatteras area? Are you going fishing? Obviously yes, otherwise you wouldn't still be reading this! You need to know where the best fishing is - use our App to find the optimal temperatures and blue waters for your best fishing action!!  Our App extracts monthly mean sea surface temperature and monthly MODIS chlorophyll-a data from the NOAA SWFSC ERDDAP website for the Hatteras coastal region. Reactive plot functions are developed to plot these data in accordance to their attributes, before the data are plotted as per user selections. 
